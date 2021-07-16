@@ -1,2 +1,2 @@
 # connect
-### A project by Startup Grind Bhubaneswar
+### Webpage for Startup Grind Bhubaneswar
